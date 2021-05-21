@@ -1,14 +1,14 @@
 ## Introduction
 
-Add project description here. What will learners be making? Broadly what skills will they be learning?
+In this project, you will use your previous knowledge of creating web pages to make a cool choose your own adventure story with hyperlinks!
 
 ### What you will make
 
 --- no-print ---
-Add instructions for interacting with the embedded content here.
+This is a very simple example choose your own adventure story titled *The Magic Library*. Navigate through some of the options in the story and see how it works!  
 
 <div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/160619869/?autostart=false" frameborder="0"></iframe>
+  <iframe src="https://trinket.io/embed/html/4cfbe71ae4?outputOnly=true" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0"></iframe></iframe>
 </div>
 --- /no-print ---
 
