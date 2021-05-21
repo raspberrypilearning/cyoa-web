@@ -22,13 +22,12 @@ title: What you will need
 ---
 ### Hardware
 
-+ A computer or tablet capable of running Scratch 3
++ A computer or tablet
 
 ### Software
 
-+ Scratch 3 (either [online](https://scratch.mit.edu/){:target="_blank"} or [offline](https://scratch.mit.edu/download){:target="_blank"})
-+ Python 3
-+ This project can be completed in a web browser using [trinket.io](https://trinket.io/)
+
++ This project can be completed in a web browser using [trinket.io](https://trinket.io/) or [repl.it](https://replit.com/)
 
 ### Downloads
 
