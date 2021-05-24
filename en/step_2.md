@@ -11,9 +11,9 @@ Each square in the map is a web page, and each arrow between them is a **relativ
 You’ll need to decide upon the plot for your simple story, and plan out the different parts of it and how they link together. You can use a piece of paper to draw your ‘story map’, or use sticky notes, note cards or anything else you like!
 
 In the example story, *The Magic Library*: 
-You find a door at the very beginning -  which you can choose to knock on, or not. If you knock, you go down the ‘easy’ path. If you don’t, it’s the ‘hard’ path. 
-The easy path provides you with a solution to the *good* ending, while the hard path leads to an infinite loop via some links which lead back to themselves and keep you stuck in the library forever - the *bad* ending.
-At any time on the *hard* path, you can choose to go back and start again by walking back out of the library to the front door.
++ You find a door at the very beginning -  which you can choose to knock on, or not. If you knock, you go down the ‘easy’ path. If you don’t, it’s the ‘hard’ path. 
++ The easy path provides you with a solution to the *good* ending, while the hard path leads to an infinite loop via some links which lead back to themselves and keep you stuck in the library forever - the *bad* ending.
++ At any time on the *hard* path, you can choose to go back and start again by walking back out of the library to the front door.
 
 --- task ---
 Plan out your story now using a story map. 
