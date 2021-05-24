@@ -3,7 +3,7 @@
 In this step, we're going to use the CSS stylesheet you created to make your story website really pop! 
 
 --- task ---
-Open your style.css file now, and you will see that it is blank. 
+Open your **style.css** file now, and you will see that it is blank. 
 
 Add the rules for the different tags you have created into the sheet, remembering to add the curly brackets like this, so you can add the declarations:
 
