@@ -18,11 +18,11 @@ Look through your text and find the words you would like to turn into a hyperlin
 
 The ```<a>``` tag is the one used by developers to create hyperlinks.
 
-There are two kinds of hyperlink you can use: **relative** hand **absolute** hyperlinks.
+There are two kinds of hyperlink you can use when developing websites; **relative** and **absolute** hyperlinks:
 
 + **Absolute** hyperlinks are the full URL (web address) of the website, which includes the ```http://www.``` part. These can be used to link to any website on the internet.
 
-+ **Relative** hyperlinks (the ones we are using today) are considered **local** links, in that they can only lead users to websites on the same **domain**. (That's the bit after the www!) This is great for developers who want to make sites that can be easily moved, as you only need to change the domain one time and all the pages redirect their links to the right place. 
++ **Relative** hyperlinks (the ones we are using today) are considered **local** links, in that they can only lead users to websites on the same **domain**. (That's the bit after the www!) This is great for developers who want to make sites that can be easily moved, as you only need to change the domain one time and *all* the pages will automatically redirect their links to the right place. 
 
 --- task ---
 Put the ```<a>``` tag before and the ```</a> tag after the words you would like to hyperlink, like this:
@@ -67,6 +67,6 @@ Simply add ```target="_blank"``` to after your href like this:
 
 --- /task ---
 
-
+Once you have all your links added, the next step is to style your story with CSS!
 
 --- save ---
