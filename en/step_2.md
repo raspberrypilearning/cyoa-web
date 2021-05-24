@@ -1,11 +1,5 @@
 ## Build your story website in HTML
 
-Introduction
-
-
-Step 2: 
-## Creating the Narrative
-
 The first thing we need to do to create our ‘Choose Your Own Adventure Website’ is to create a narrative where our reader can make choices that lead to other pages in the story.
 
 In the included example site, *The Magic Library*, our reader is taken through a very simple narrative which branches into different options. If we look at a ‘map’ of our story, it would look something like this:
