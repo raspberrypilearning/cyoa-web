@@ -5,7 +5,7 @@ In this step, we're going to use the CSS stylesheet you created to make your sto
 --- task ---
 Open your style.css file now, and you will see that it is blank. 
 
-Add the rules for the different tags you have created into the sheet, remembering to add the curly brackets like this:
+Add the rules for the different tags you have created into the sheet, remembering to add the curly brackets like this, so you can add the declarations:
 
 a {
 
@@ -13,7 +13,7 @@ a {
 
 --- collapse ---
 ---
-title: Rules reminder
+title: Tags reminder
 ---
 
 You should have rules for all the tags you used to create your story pages. In case you forgot what they are, here's a quick list:
