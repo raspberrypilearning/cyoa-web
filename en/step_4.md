@@ -5,9 +5,12 @@ In this step, we're going to use the CSS stylesheet you created to make your sto
 --- task ---
 Open your **style.css** file now, and you will see that it is blank. 
 
-Add the rules for the different tags you have created into the sheet, remembering to add the curly brackets like this, so you can add the declarations:
+Add the rules for the different tags you have created into the sheet, remembering to add the curly brackets like this, so you can add the declarations inside them:
 
-a { }
+```body { }```
+```a { }```
+```h1 { }```
+```p { }```
 
 --- collapse ---
 ---
@@ -26,6 +29,12 @@ You should have rules for all the tags you used to create your story pages. In c
 
 --- /collapse ---
 
+--- /task ---
+
+--- task ---
+Now that you have rules for all the tags you've used, you can start adding the declarations that will create your styling. 
+
+Go back over your previous projects to find some of the declarations you used previously. You can find a full list of CSS colours [here](https://www.w3schools.com/cssref/css_colors.asp).
 --- /task ---
 
 --- task ---
