@@ -28,10 +28,11 @@ title: What you will need
 
 
 + This project can be completed in a web browser using [trinket.io](https://trinket.io/) or [repl.it](https://replit.com/)
-
++ You can also use an offline code editor like [Visual Studio Code](https://code.visualstudio.com/Download)
+ 
 ### Downloads
 
-+ Download the project [starter file](http://rpf.io/p/en/projectName-go){:target="_blank"} if working offline
++ Download the project [starter file](http://rpf.io/p/en/cyoa-web-go){:target="_blank"} if working offline
 
 --- /collapse ---
 
