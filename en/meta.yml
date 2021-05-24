@@ -7,5 +7,8 @@ copyedit: false
 last_tested: "2021-05-21"
 steps:
   - title: Introduction
-  - title: Step title
+  - title: Build your story website in HTML
+  - title: Link your pages with hyperlinks
+  - title: Style up your story with CSS
+  - title: Reflect
   - title: What next?

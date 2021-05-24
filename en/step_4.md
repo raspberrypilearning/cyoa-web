@@ -1,6 +1,6 @@
-## Build your story website in HTML
+## Style up your story with CSS
 
-Add an introductory sentence. What will learners achieve by the end of this step?
+In this step, we're going to use the CSS stylesheet you created to make your story website really pop! 
 
 --- task ---
 
