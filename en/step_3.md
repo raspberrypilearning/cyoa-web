@@ -67,6 +67,10 @@ Simply add ```target="_blank"``` to after your href like this:
 
 --- /task ---
 
+You can also make any images you have on your page into hyperlinks by putting the ```<a>``` tags **outside** the ```<img>``` tags like this:
+
+```<a href="treasure.html"> <img src="treasure.jpg" alt="The treasure chest!"> </a> ```
+
 Once you have all your links added, the next step is to style your story with CSS!
 
 --- save ---
