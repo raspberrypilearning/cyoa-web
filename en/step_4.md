@@ -7,9 +7,7 @@ Open your style.css file now, and you will see that it is blank.
 
 Add the rules for the different tags you have created into the sheet, remembering to add the curly brackets like this, so you can add the declarations:
 
-a {
-
-   }
+a { }
 
 --- collapse ---
 ---
