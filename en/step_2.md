@@ -20,10 +20,10 @@ Plan out your story now using a story map.
 
 Some things to think about:
 
-What are the major events in your story?
-What choices will your reader get to make at each event?
-What will the different choices lead to?
-What is the ‘good’ ending, and what is the ‘bad’ ending?
++ What are the major events in your story?
++ What choices will your reader get to make at each event?
++ What will the different choices lead to?
++ What is the ‘good’ ending, and what is the ‘bad’ ending?
 --- /task ---
 
 Once you have created your story map, you will be able to see how many pages you will need to create for your story. Each page should be a separate ```.html``` file with a distinct and easily recognisable name. 
