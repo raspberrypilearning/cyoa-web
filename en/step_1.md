@@ -41,9 +41,9 @@ title: What you will need
 title: What you will learn
 ---
 
-+ Learning objective 1
-+ Learning objective 2
-+ Learning objective 3
++ Hyperlinks are tools developers can use to lead our audience to other pages with a single click.
++ You can create hyperlinks in any HTML document.
++ Hyperlinks come in two types - Relative and Absolute.
 
 --- /collapse ---
 
