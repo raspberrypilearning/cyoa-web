@@ -38,6 +38,8 @@ Go back over your [previous projects](https://learning-admin.raspberrypi.org/en/
 
 You can find a full list of CSS colours [here](https://www.w3schools.com/cssref/css_colors.asp) to help make it funky!
 
+Remember: you can use both the names of the colours and the Hex codes to define them!
+
 --- /task ---
 
 --- task ---
