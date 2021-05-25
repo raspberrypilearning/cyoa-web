@@ -32,14 +32,17 @@ You should have rules for all the tags you used to create your story pages. In c
 --- /task ---
 
 --- task ---
-Now that you have rules for all the tags you've used, you can start adding the declarations that will create your styling. 
+Now that you have set up rules for all the tags you've used in your website, you can start adding the declarations that will create your styling. 
 
-Go back over your previous projects to find some of the declarations you used previously. You can find a full list of CSS colours [here](https://www.w3schools.com/cssref/css_colors.asp).
+Go back over your [previous projects](https://learning-admin.raspberrypi.org/en/projects/edit-the-web) to remind yourself of some of the declarations used in CSS rules. 
+
+You can find a full list of CSS colours [here](https://www.w3schools.com/cssref/css_colors.asp) to help make it funky!
+
 --- /task ---
 
 --- task ---
 
-Step content...
+
 
 --- /task ---
 
