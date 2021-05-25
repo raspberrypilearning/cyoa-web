@@ -19,13 +19,13 @@ title: Tags reminder
 
 You should have rules for all the tags you used to create your story pages. In case you forgot what they are, here's a quick list:
 
-+ body: the main part of your page
-+ p: the text or paragraphs that make up your page
-+ h1-h6: the different sized headings
-+ ul & ol: unordered and ordered lists
-+ span: special text you want to highlight
-+ img: images on your page
-+ a: hyperlinks
++ ```body```: the main part of your page
++ ```p```: the text or paragraphs that make up your page
++ ```h1-h6```: the different sized headings
++ ```ul``` & ```ol```: unordered and ordered lists
++ ```span```: special text you want to highlight
++ ```img```: images on your page
++ ```a```: hyperlinks
 
 --- /collapse ---
 
