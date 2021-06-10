@@ -61,7 +61,9 @@ You can add a ```target``` to your tag, which will open links in a new window or
 
 Simply add ```target="_blank"``` to after your href like this:
 
-```<a href="treasure.html" target="_blank">```
+```html
+<a href="treasure.html" target="_blank">
+```
 
 --- /collapse ---
 
@@ -69,7 +71,9 @@ Simply add ```target="_blank"``` to after your href like this:
 
 You can also make any images you have on your page into hyperlinks by putting the ```<a>``` tags **outside** the ```<img>``` tags like this:
 
-```<a href="treasure.html"> <img src="treasure.jpg" alt="The treasure chest!"> </a> ```
+```html
+<a href="treasure.html"> <img src="treasure.jpg" alt="The treasure chest!"> </a> 
+```
 
 Once you have all your links added, the next step is to style your story with CSS!
 
