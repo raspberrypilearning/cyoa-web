@@ -39,22 +39,22 @@ Create a new, blank ```.html``` file for each one of the pages on your map. Give
 title: HTML Boilerplate
 ---
 
-```<!doctype html>
-<html lang="en">
+```<!doctype html>```
+```<html lang="en">```
 
-<head>
-  <meta charset="utf-8">
-  <title>Put a Good Title for this page in Your Story!</title>
-  <link rel="stylesheet" href="style.css">
-</head>
+```<head>```
+```  <meta charset="utf-8">```
+```  <title>Put a Good Title for this page in Your Story!</title>```
+```  <link rel="stylesheet" href="style.css">```
+```</head>```
 
-<body>
+```<body>```
 
-Your Story elements go in here!
+```Your Story elements go in here!```
 
-</body>
+```</body>```
 
-</html>```
+```</html>```
 
 Remember to change the ```<title>``` to something relevant and cool!
 --- /collapse ---
