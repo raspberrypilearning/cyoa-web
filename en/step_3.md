@@ -36,7 +36,9 @@ You should see the words change colour in your website once you add the tags, bu
 --- task ---
 Inside the ```<a>``` tag at the start of your new hyperlink add the following declaration and the name of the page you want the hyperlink to go to, like this:
 
-```<a href="treasure.html">these are the words I want to link to</a>```
+```html
+<a href="treasure.html">these are the words I want to link to</a>
+```
 
 In this example, I am linking to the HTML file I have created called treasure.html - you should add the name of **your own website** here instead.
 
