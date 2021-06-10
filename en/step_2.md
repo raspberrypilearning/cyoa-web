@@ -31,7 +31,9 @@ Once you have created your story map, you will be able to see how many pages you
 In the example, you can see the pages are all simply titled with the main event on them: knock, open, torch, darkness etc. This makes it easy for you to know which page is which at a glance - it can get confusing sometimes!
 
 --- task ---
-Create a new, blank ```.html``` file for each one of the pages on your map. Give them sensible filenames and paste the HTML boilerplate here at the top of each one ready to code:
+Create a new, blank ```.html``` file for each one of the pages on your map.
+The first one should be called index.html, as this will be the first one that loads and ```index.html`` is the conventional name for a home page.
+Give the rest of your pages sensible filenames and paste the HTML boilerplate here at the top of each one ready to code:
 
 --- collapse ---
 
@@ -39,22 +41,24 @@ Create a new, blank ```.html``` file for each one of the pages on your map. Give
 title: HTML Boilerplate
 ---
 
-```<!doctype html>```
-```<html lang="en">```
+```html 
+<!doctype html>
+<html lang="en">
 
-```<head>```
-```  <meta charset="utf-8">```
-```  <title>Put a Good Title for this page in Your Story!</title>```
-```  <link rel="stylesheet" href="style.css">```
-```</head>```
+<head>
+  <meta charset="utf-8">
+  <title>Put a Good Title for this page in Your Story!</title>
+  <link rel="stylesheet" href="style.css">
+</head>
 
-```<body>```
+<body>
 
-```Your Story elements go in here!```
+Your Story elements go in here!
 
-```</body>```
+</body>
 
-```</html>```
+</html>
+```
 
 Remember to change the ```<title>``` to something relevant and cool!
 --- /collapse ---
