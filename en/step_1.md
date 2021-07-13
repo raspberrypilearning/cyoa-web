@@ -1,11 +1,13 @@
 ## Introduction
 
-In this project, you will use your previous knowledge of creating web pages to make a cool choose your own adventure story with hyperlinks!
+Link webpages together to make a cool choose your own adventure story!
 
 ### What you will make
 
 --- no-print ---
-This is a very simple example choose your own adventure story titled *The Magic Library*. Navigate through some of the options in the story and see how it works!  
+This choose your own adventure story is titled *The Magic Library*. Navigate through some of the options in the story and see how it works!  
+
+Can you find your way to the treasure?
 
 <div>
   <iframe src="https://trinket.io/embed/html/4cfbe71ae4" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
