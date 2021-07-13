@@ -1,12 +1,12 @@
 ## Build your story website in HTML
+Now you're going to make the webpages that will make up your story. Each page will be a separate ```.html``` file with a distinct and easily recognisable name. 
 
-Each page should be a separate ```.html``` file with a distinct and easily recognisable name. 
-
-In the example, you can see the pages are all simply titled with the main event on them: knock, open, torch, darkness etc. This makes it easy for you to know which page is which at a glance - it can get confusing sometimes!
+In the example story, you can see the pages are all simply titled with the main event on them: knock, open, torch, darkness etc. This makes it easy for you to know which page is which at a glance - it can get confusing sometimes!
 
 --- task ---
 Create a new, blank ```.html``` file for each one of the pages on your map.
-The first one should be called index.html, as this will be the first one that loads and ```index.html`` is the conventional name for a home page.
+
+The first one should be called ```index.html``, which is the conventional name for a 'home page', which is the first one that loads when you navigate to a URL.
 Give the rest of your pages sensible filenames and paste the HTML boilerplate here at the top of each one ready to code:
 
 --- collapse ---
