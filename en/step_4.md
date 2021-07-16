@@ -6,9 +6,9 @@ You've definitely seen hyperlinks before (you followed one to get to *this* web 
 
 By default, links will appear as follows in all browsers (but you can change this with CSS!):
 
-+ An **unvisited** link is underlined and **blue**.
-+ A **visited** link is underlined and **purple**.
-+ An **active** link is underlined and **red**.
++ An **unvisited** link is underlined and <span style="color: #0000EE">**blue**</span>.
++ A **visited** link is underlined and <span style="color: #800080">**purple**</span>.
++ An **active** link is underlined and <span style="color: #FF0000">**red**</span>.
 
 --- task ---
 Open your introductory page for your story. This is the first page your reader will see when they begin. 
