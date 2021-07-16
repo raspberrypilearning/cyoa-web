@@ -2,7 +2,7 @@
 
 In this step, we're going to take all of your webpages and link to them through the choices you offered your reader. Before we do that though, we need to understand a little bit more about hyperlinks and how they work.
 
-You've definitely seen hyperlinks before (you followed one to get to *this* web page!) Links are found on nearly all web pages. They allow users to navigate their way through the internet from page to page, just by clicking. You know they are there because when you move your mouse pointer over a hyperlink it becomes a little hand.
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">You've definitely seen hyperlinks before (you followed one to get to *this* web page!) Links are found on nearly all web pages. They allow users to navigate their way through the internet from page to page, just by clicking. You know they are there because when you move your mouse pointer over a hyperlink it becomes a little hand. </p>
 
 By default, links will appear as follows in all browsers (but you can change this with CSS!):
 

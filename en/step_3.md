@@ -7,6 +7,7 @@ In the example story, you can see the pages are all simply titled with the main 
 Create a new, blank ```.html``` file for each one of the pages on your map.
 
 The first one should be called ```index.html``, which is the conventional name for a **home page** or the first one that loads when you navigate to a URL.
+
 Give the rest of your pages sensible filenames and paste the HTML boilerplate here at the top of each one ready to code:
 
 --- collapse ---

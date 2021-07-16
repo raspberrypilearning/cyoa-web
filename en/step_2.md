@@ -1,4 +1,4 @@
-## Build your story website in HTML
+## Plan your story
 
 The first thing we need to do to create our ‘Choose Your Own Adventure Website’ is to create a narrative where our reader can make choices that lead to other pages in the story.
 
