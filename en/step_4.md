@@ -25,7 +25,7 @@ There are two kinds of hyperlink you can use when developing websites; **relativ
 + **Relative** hyperlinks (the ones we are using today) are considered **local** links, in that they can only lead users to websites on the same **domain**. (That's the bit after the www!) This is great for developers who want to make sites that can be easily moved, as you only need to change the domain one time and *all* the pages will automatically redirect their links to the right place. 
 
 --- task ---
-Put the ```<a>``` tag before and the ```</a> tag after the words you would like to hyperlink, like this:
+Put the ```<a>``` tag before and the ```</a>``` tag after the words you would like to hyperlink, like this:
 
 ```<a>these are the words I want to link</a>```
 

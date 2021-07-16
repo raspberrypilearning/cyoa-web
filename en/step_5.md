@@ -34,9 +34,11 @@ You should create rules for all the tags you used to create your story pages. In
 
 Now that you have set up rules for all the tags you've used in your website, you should start adding the declarations that will create your styling. 
 
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;"> CSS Stylesheets were designed to be **portable** - you can use one stylesheet across multiple websites easily to style them all the same way. If you've previously created a stylesheet you really love, you can use it here and it will work!</p>
+
 --- task ---
 
-Go back over your [previous projects](https://learning-admin.raspberrypi.org/en/projects/edit-the-web/2) to remind yourself of some of the declarations used in CSS rules. (You could also copy a previous CSS file you have created and change it to suit your new site!)
+Go back over your [previous projects](https://learning-admin.raspberrypi.org/en/projects/edit-the-web/2) to remind yourself of some of the declarations used in CSS rules. 
 
 For example, the CSS rules for your paragraph text might look like this to have it on the left side of your page and coloured ```AliceBlue```:
 ```css
@@ -45,6 +47,7 @@ p {
   text-align: left;
   color: AliceBlue;
 }
+```
 
 --- collapse ---
 ---
