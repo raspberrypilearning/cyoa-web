@@ -46,8 +46,6 @@ p {
   color: AliceBlue;
 }
 
---- /task ---
-
 --- collapse ---
 ---
 title: CSS Colours
@@ -56,11 +54,6 @@ You can find a full list of CSS colours [here](https://www.w3schools.com/cssref/
 
 Remember: you can use both the names of the colours and the Hex codes to define them!
 --- /collapse ---
-
-
---- task ---
-
-
 
 --- /task ---
 

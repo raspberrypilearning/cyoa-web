@@ -8,32 +8,32 @@ You have learned a lot! Answer the questions below to reflect on what you've lea
 legend: Question 1 of 3
 ---
 
-Insert Q1
+Which HTML tag denotes a hyperlink?
 
 --- choices ---
 
-- ( ) Answer Wrong
+- ( ) ```<img>```
 
   --- feedback ---
-Feedback Wrong
+No, the ```<img>``` tag is used to show an image on a webpage.
   --- /feedback ---
 
-- (x) Answer Right
+- (x) ```<a>```
 
   --- feedback ---
-Feedback Right
+Yes! The ```<a>``` tag is the correct tag to create a hyperlink in your webpage!
   --- /feedback ---
 
-- ( ) Answer Wrong
+- ( ) ```<p>```
 
   --- feedback ---
-Feedback Wrong
+No, the ```<p>``` tag is used to create paragraph text in a webpage.
   --- /feedback ---
 
-- ( ) Answer Wrong
+- ( ) ```<span>```
 
   --- feedback ---
-Feedback Wrong
+No, the ```<span>``` tag is used to create highlighted text in a webpage.
   --- /feedback ---
 
 --- /choices ---

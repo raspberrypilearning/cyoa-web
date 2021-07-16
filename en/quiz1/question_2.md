@@ -8,32 +8,32 @@ You have learned a lot! Answer the questions below to reflect on what you've lea
 legend: Question 2 of 3
 ---
 
-Insert Q2
+When you mouse over a hyperlink, your pointer will likely turn into:
 
 --- choices ---
 
-- ( ) Answer Wrong
+- ( ) A spinning wheel or ring
 
   --- feedback ---
-Feedback Wrong
+No, if your mouse pointer turns into a wheel or ring, your computer is processing and it needs you to wait.
   --- /feedback ---
 
-- (x) Answer Right
+- () A little car
 
   --- feedback ---
-Feedback Right
+No, your mouse pointer should never turn into a little car!
   --- /feedback ---
 
-- ( ) Answer Wrong
+- (x) A pointing finger
 
   --- feedback ---
-Feedback Wrong
+Yes! Hyperlinks will usually turn your mouse pointer into a little pointing finger if you hover over them.
   --- /feedback ---
 
-- ( ) Answer Wrong
+- ( ) A question mark
 
   --- feedback ---
-Feedback Wrong
+No, this isn't right! Your mouse pointer doesn't become a question mark when you hover over a hyperlink.
   --- /feedback ---
 
 --- /choices ---
