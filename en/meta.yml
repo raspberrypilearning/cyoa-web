@@ -1,0 +1,16 @@
+title: Choose your own adventure website
+hero_image: images/banner.png
+description: cyoa-web description
+version: 4
+listed: false
+copyedit: false
+last_tested: "2021-05-21"
+steps:
+  - title: Introduction
+  - title: Plan your story
+  - title: Build your story website in HTML
+  - title: Link your pages with hyperlinks
+  - title: Style up your story with CSS
+  - tatle: Upgrade your project
+  - title: Reflect
+  - title: What next?
