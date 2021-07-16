@@ -2,7 +2,7 @@
 
 The first thing we need to do to create our ‘Choose Your Own Adventure Website’ is to create a narrative where our reader can make choices that lead to other pages in the story.
 
-In the included example site, *The Magic Library*, our reader is taken through a very simple narrative which branches into different options. If we look at a ‘map’ of our story, it would look something like this:
+In the included example site, *The Magic Library*, our reader is taken through a narrative which branches into different options. If we look at a ‘map’ of our story, it would look something like this:
 
 ![Story Map](images/story-map.png)
 
@@ -28,4 +28,4 @@ Some things to think about:
 
 Once you have created your story map, you will be able to see how many pages you will need to create for your story. 
 
-Don't worry if it's n;y small to start with; you can easily add more pages later on!
+Don't worry if it's only small to start with; you can easily add more pages later on!
